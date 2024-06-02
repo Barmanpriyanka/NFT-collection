@@ -50,7 +50,4 @@ mintNFT("Priya","Blue","Hoddie","Silver chain");
 mintNFT("Sonam","Brown","Hoddie","Platinum chain");
 mintNFT("Sona","Black","Hoddie","Diamond chain");
 listNFTs();
-listNFTs();
-listNFTs();
-listNFTs();
 getTotalSupply();
